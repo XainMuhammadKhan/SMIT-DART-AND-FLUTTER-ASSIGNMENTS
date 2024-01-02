@@ -5,6 +5,6 @@ void main() {
   if (num1 == num2) {
     print("values are square");
   } else if (num1 != num2) {
-    print("values are square");
+    print("values are rectangle");
   }
 }
